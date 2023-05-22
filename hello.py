@@ -5,3 +5,5 @@ def hello(msg):
 
 id _name_ == "_main_":
 	hello("world")
+	hello("Alice")
+	hello("Bob")
